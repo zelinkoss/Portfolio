@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(12, 1, 19);
+}
+
+h1 {
+    color: aliceblue;
+    font-family: monospace;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+    font-family: monospace;
+    text-align: center;
+}
+header {
+    background-color: aliceblue;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.prace {
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.jmeno {
+    font-size: 145px;
+    color: black;
+}
+
+.kontakt {
+    font-weight: 300;
+}
+
+.about  {
+    font-size: 35px;
+    margin-top: 115px;
+}
+
+.popis {
+    font-size: 19px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.nadpisy {
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+.popis {
+    font-size: 19px;
+}
+
+footer {
+    
+}
